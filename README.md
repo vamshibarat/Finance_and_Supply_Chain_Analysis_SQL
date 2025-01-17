@@ -2,8 +2,6 @@
 
 FINANCE AND SUPPLY CHAIN ANALYTICS OF ATLIQ HARDWARES
 
-# Full Video Presentation Link: https://youtu.be/7lIz2BeBh_8
-
 📊 Problem Tackled: Addressing the challenges of Excel's file size constraints, enhancing decision-making processes, and streamlining operations through MySQL analytics.
 
 📈 Project Synopsis: Delved into AtliQ Hardware's sales, products, customers, and regional data to derive critical insights.
