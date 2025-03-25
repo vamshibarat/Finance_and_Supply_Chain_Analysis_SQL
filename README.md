@@ -1,3 +1,5 @@
+Presentation Video : https://lnkd.in/gAqtJkeD
+
 # Finance_and_Supply_Chain_Analysis_SQL
 
 FINANCE AND SUPPLY CHAIN ANALYTICS OF ATLIQ HARDWARES
